@@ -1,2 +1,2 @@
 # alien_invasion
-Exercise from Python Crush Course, Third Edition.
+Exercise from Python Crash Course, Third Edition.
